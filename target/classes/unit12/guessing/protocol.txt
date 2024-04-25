@@ -1,0 +1,5 @@
+Request from Client:    Response from Server:
+QUIT\n                  GAME_OVER\n
+RESTART\n               RESTARTED\n
+GUESS #\n               TOO_LOW\n TOO_HIGH\n CORRECT\n OUT_OF_GUESSES\n
+anything else           ERROR
